@@ -1,4 +1,4 @@
-import "./rightbar.css";
+import "./rightBar.css";
 import { Users } from "../../dummyData";
 import Online from "../online/Online";
 import ad from "../../assets/ad.png"
